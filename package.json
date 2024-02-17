@@ -1,0 +1,14 @@
+{
+  "name": "basicinfosite",
+  "version": "1.0.0",
+  "description": "basic info site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "avi",
+  "license": "ISC",
+  "dependencies": {
+    "node-modules": "^0.0.1"
+  }
+}
